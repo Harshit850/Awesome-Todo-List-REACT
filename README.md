@@ -1,5 +1,6 @@
 # Awesome-Todo-List-REACT
 Awesome Todo-list, where you can add or delete or mark your daily tasks.
+Site is deployed using github pages at :- https://harshit850.github.io/Awesome-Todo-List-REACT/
 # You can check or uncheck Todos
 <img src="https://i.ibb.co/X3q4PHt/todo1.jpg" alt="todo1" border="0">
 
