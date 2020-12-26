@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Awesome-Todo-List-REACT/static/css/main.46b68718.chunk.css",
+    "main.js": "/Awesome-Todo-List-REACT/static/js/main.a16637bb.chunk.js",
+    "main.js.map": "/Awesome-Todo-List-REACT/static/js/main.a16637bb.chunk.js.map",
+    "runtime-main.js": "/Awesome-Todo-List-REACT/static/js/runtime-main.37866ed9.js",
+    "runtime-main.js.map": "/Awesome-Todo-List-REACT/static/js/runtime-main.37866ed9.js.map",
+    "static/js/2.8f1d219c.chunk.js": "/Awesome-Todo-List-REACT/static/js/2.8f1d219c.chunk.js",
+    "static/js/2.8f1d219c.chunk.js.map": "/Awesome-Todo-List-REACT/static/js/2.8f1d219c.chunk.js.map",
+    "index.html": "/Awesome-Todo-List-REACT/index.html",
+    "static/css/main.46b68718.chunk.css.map": "/Awesome-Todo-List-REACT/static/css/main.46b68718.chunk.css.map",
+    "static/js/2.8f1d219c.chunk.js.LICENSE.txt": "/Awesome-Todo-List-REACT/static/js/2.8f1d219c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37866ed9.js",
+    "static/js/2.8f1d219c.chunk.js",
+    "static/css/main.46b68718.chunk.css",
+    "static/js/main.a16637bb.chunk.js"
+  ]
+}
